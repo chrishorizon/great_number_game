@@ -1,0 +1,17 @@
+.btn_submit{
+    border: 1px solid black;
+    width: 100px;
+    margin: 10px auto;
+    height: 40px;
+    box-shadow: 2px 2px 0px 1px;
+    background-color: rgb(26, 245, 216);
+}
+
+.box1 .btn{
+    border: 1px solid black;
+    width: 105px;
+    margin: 10px auto;
+    height: 40px;
+    box-shadow: 2px 2px 0px 1px;
+    background-color: rgb(255, 255, 66);
+}
